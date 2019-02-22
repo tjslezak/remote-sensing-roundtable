@@ -1,2 +1,2 @@
-# remote-sensing-roundtable
-Demonstrations and tools for working with various open-source remote sensing datasets in Pytho.n
+# Remote Sensing Roundtable
+Demonstrations and tools for working with various open-source satellite data (especially cloud-optimized imagery) and geospatial file types in Python.
